@@ -1,3 +1,5 @@
+<img width="2000" height="181" alt="ENH SMGS" src="https://github.com/user-attachments/assets/77475a2e-a104-4d0c-83cd-df0c1bdca336" />
+
 # ENAHNCED SMGs v1.3
 The second part of the Enhanced SMGs (v1.3) update.
 It includes my globally reworked (again) version of the AUG 9mm SMG.  
